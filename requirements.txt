@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+nltk
+transformers
+torch
+tqdm
+wordcloud
